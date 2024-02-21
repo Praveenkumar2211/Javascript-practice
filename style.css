@@ -1,0 +1,42 @@
+
+button:hover{
+    color: rgba(49, 123, 99, 0.365);
+    background-color: rgba(80, 169, 42, 0.477);
+}
+
+.new{
+    display: flex;
+    gap: 50px;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+button{
+    margin-left: 40px;
+} 
+div{
+    width: 500px;
+    height: 200px;
+    background-color: bisque;
+}
+h1{
+    color: rgb(227, 92, 115);
+    text-align: center;
+    
+}
+.ude{
+    color: red;
+    background-color: yellow;
+    border: 3px solid black;
+}
+.raju{
+    color: rgb(109, 255, 12);
+}
+.bathi{
+    background-color: black;
+}
+.chandu{
+    text-transform: uppercase;
+    text-align: center;
+
+}
